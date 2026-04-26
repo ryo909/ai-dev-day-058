@@ -1,11 +1,11 @@
 {
   "title": "先食べ献立パレット",
   "archetype": "combo_filter",
-  "interaction_model": "structured_multi_field",
-  "primary_layout": "two_column_workbench",
-  "result_presentation_style": "stacked_result_cards",
-  "palette_motif": "neutral slate / white",
-  "main_cta": "サンプルで試す",
-  "intro_variant": "generic",
-  "ui_variant": "generic"
+  "interaction_model": "edit_ingredients_and_combo_cards",
+  "primary_layout": "ingredient_rows_with_combo_priority_stack",
+  "result_presentation_style": "urgent_ingredients_and_survivor_meals",
+  "palette_motif": "先食べアンバー",
+  "main_cta": "冷蔵庫の夕飯で試す",
+  "intro_variant": "expiry_shelf",
+  "ui_variant": "expiry"
 }
